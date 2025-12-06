@@ -20,6 +20,12 @@ body {
     width: 300px;
 }
 
+#display {
+    margin-bottom: 15px; /* instead of margin-top */
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+
 input {
     width: 100%;
     padding: 10px;
